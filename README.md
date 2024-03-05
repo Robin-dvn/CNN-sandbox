@@ -5,4 +5,4 @@ J'utilise donc ce répertoire pour mes notebooks persos qui sont inspirés des t
 
 ## CNN-Lama
 
-Dans ce notebook je fais du transfer learning à partir du modèle MobileNetV2 entrainé sur ImageNet pour faire de la classification d'images de lamas. Le dataset m'a été fournit dans le cours.
+Dans ce notebook je fais du transfer learning à partir du modèle MobileNetV2 entrainé sur ImageNet pour faire de la classification d'images de lamas. Le dataset m'a été fourni dans le cours.
